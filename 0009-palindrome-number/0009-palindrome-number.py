@@ -1,10 +1,14 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        x2 = 0
-        x_copy = x
-        while x > 0:
-            x2 = x2*10 + x%10
+        if x < 0:
+            return False
+        if (x < 10):
+            return True 
+        d = x
+        px = x%10
+        x = x//10
+        while (x > 0):
+            px = px*10 + x%10
             x = x//10
-        return x2 == x_copy
-
+        return d == px 
         
