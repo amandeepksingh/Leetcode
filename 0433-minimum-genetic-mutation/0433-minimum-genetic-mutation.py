@@ -15,7 +15,7 @@ class Solution:
         while queue:
             for i in range(len(queue)):
                 gene = queue.popleft()
-                if gene == endGene:
+                if gene == endGene: # stop condition
                     return mut
                 for j in range(8):
                     for g in gene_choices: 
@@ -25,4 +25,4 @@ class Solution:
             mut = mut + 1
 
 
-        return -1
+        return -1 # no valid mutations to get from startGene to endGene
