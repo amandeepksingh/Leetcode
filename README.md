@@ -22,6 +22,7 @@ Aman's Leetcode Tracking 2024
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Aman's Leetcode Tracking 2024
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0125-valid-palindrome) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
 ## Breadth-First Search
 |  |
