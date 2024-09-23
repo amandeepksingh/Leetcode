@@ -14,6 +14,7 @@ Aman's Leetcode Tracking 2024
 | [0027-remove-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
@@ -45,4 +46,8 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
