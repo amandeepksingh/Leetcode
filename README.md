@@ -11,6 +11,7 @@ Aman's Leetcode Tracking 2024
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0035-search-insert-position) |
@@ -24,6 +25,7 @@ Aman's Leetcode Tracking 2024
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -32,6 +34,7 @@ Aman's Leetcode Tracking 2024
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0217-contains-duplicate) |
