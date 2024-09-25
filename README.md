@@ -8,6 +8,7 @@ Aman's Leetcode Tracking 2024
 | ------- |
 | [0009-palindrome-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0066-plus-one) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Aman's Leetcode Tracking 2024
 | [0125-valid-palindrome](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0242-valid-anagram) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Breadth-First Search
 |  |
 | ------- |
