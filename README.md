@@ -12,6 +12,7 @@ Aman's Leetcode Tracking 2024
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0027-remove-element) |
@@ -68,6 +69,7 @@ Aman's Leetcode Tracking 2024
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0035-search-insert-position) |
 ## Dynamic Programming
 |  |
@@ -76,6 +78,7 @@ Aman's Leetcode Tracking 2024
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0169-majority-element) |
 ## Counting
 |  |
