@@ -12,6 +12,7 @@ Aman's Leetcode Tracking 2024
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -47,6 +48,7 @@ Aman's Leetcode Tracking 2024
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0219-contains-duplicate-ii) |
