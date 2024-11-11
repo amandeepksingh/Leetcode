@@ -8,6 +8,7 @@ Aman's Leetcode Tracking 2024
 | ------- |
 | [0009-palindrome-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0066-plus-one) |
+| [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ Aman's Leetcode Tracking 2024
 | [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0219-contains-duplicate-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Two Pointers
@@ -47,6 +49,7 @@ Aman's Leetcode Tracking 2024
 | [0169-majority-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0242-valid-anagram) |
+| [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
@@ -92,6 +95,7 @@ Aman's Leetcode Tracking 2024
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0169-majority-element) |
+| [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -129,4 +133,16 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
