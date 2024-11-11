@@ -24,6 +24,7 @@ Aman's Leetcode Tracking 2024
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0219-contains-duplicate-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -68,6 +69,7 @@ Aman's Leetcode Tracking 2024
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
 ## Bit Manipulation
 |  |
@@ -99,4 +101,16 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
