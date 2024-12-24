@@ -167,5 +167,6 @@ Aman's Leetcode Tracking 2024
 ## Database
 |  |
 | ------- |
+| [0262-trips-and-users](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0262-trips-and-users) |
 | [1541-top-travellers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1541-top-travellers) |
 <!---LeetCode Topics End-->
