@@ -164,4 +164,8 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1541-top-travellers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1541-top-travellers) |
 <!---LeetCode Topics End-->
