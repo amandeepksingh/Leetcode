@@ -168,6 +168,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0262-trips-and-users](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0262-trips-and-users) |
+| [1301-reformat-department-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1811-fix-names-in-a-table) |
