@@ -149,6 +149,7 @@ Aman's Leetcode Tracking 2024
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -202,4 +203,8 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
