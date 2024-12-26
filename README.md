@@ -97,6 +97,7 @@ Aman's Leetcode Tracking 2024
 | [0190-reverse-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Aman's Leetcode Tracking 2024
 | ------- |
 | [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
