@@ -8,6 +8,7 @@ Aman's Leetcode Tracking 2024
 | ------- |
 | [0009-palindrome-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -105,6 +106,7 @@ Aman's Leetcode Tracking 2024
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -196,4 +198,8 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
