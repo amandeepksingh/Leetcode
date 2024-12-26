@@ -39,6 +39,7 @@ Aman's Leetcode Tracking 2024
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0027-remove-element) |
@@ -77,6 +78,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0049-group-anagrams) |
@@ -107,6 +109,7 @@ Aman's Leetcode Tracking 2024
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0338-counting-bits) |
