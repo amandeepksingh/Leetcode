@@ -124,10 +124,12 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
+| [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -178,4 +180,16 @@ Aman's Leetcode Tracking 2024
 | [1541-top-travellers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1811-fix-names-in-a-table) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
