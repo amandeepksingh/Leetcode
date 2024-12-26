@@ -94,6 +94,7 @@ Aman's Leetcode Tracking 2024
 | ------- |
 | [0137-single-number-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@ Aman's Leetcode Tracking 2024
 | [0023-merge-k-sorted-lists](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
