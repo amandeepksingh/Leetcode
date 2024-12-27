@@ -194,6 +194,7 @@ Aman's Leetcode Tracking 2024
 | [1541-top-travellers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1541-top-travellers) |
 | [1670-patients-with-a-condition](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1811-fix-names-in-a-table) |
+| [1837-daily-leads-and-partners](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1837-daily-leads-and-partners) |
 | [1948-rearrange-products-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1948-rearrange-products-table) |
 ## Tree
 |  |
