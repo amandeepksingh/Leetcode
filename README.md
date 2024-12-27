@@ -187,6 +187,7 @@ Aman's Leetcode Tracking 2024
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0175-combine-two-tables) |
 | [0262-trips-and-users](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0262-trips-and-users) |
 | [1174-sales-analysis-iii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1179-game-play-analysis-i) |
