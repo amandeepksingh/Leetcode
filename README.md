@@ -194,6 +194,7 @@ Aman's Leetcode Tracking 2024
 | [0181-employees-earning-more-than-their-managers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0262-trips-and-users) |
 | [1174-sales-analysis-iii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1179-game-play-analysis-i) |
