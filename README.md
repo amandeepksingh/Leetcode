@@ -12,6 +12,7 @@ Aman's Leetcode Tracking 2024
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Aman's Leetcode Tracking 2024
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
@@ -106,6 +108,7 @@ Aman's Leetcode Tracking 2024
 | [0191-number-of-1-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0338-counting-bits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,4 +236,16 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
