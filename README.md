@@ -37,6 +37,7 @@ Aman's Leetcode Tracking 2024
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Aman's Leetcode Tracking 2024
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0125-valid-palindrome) |
+| [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Aman's Leetcode Tracking 2024
 | [0974-reorder-data-in-log-files](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +79,7 @@ Aman's Leetcode Tracking 2024
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## String
 |  |
 | ------- |
