@@ -32,6 +32,7 @@ Aman's Leetcode Tracking 2024
 | [0217-contains-duplicate](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0414-third-maximum-number) |
 | [0974-reorder-data-in-log-files](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -57,6 +58,7 @@ Aman's Leetcode Tracking 2024
 | [0217-contains-duplicate](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0414-third-maximum-number) |
 | [0974-reorder-data-in-log-files](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
