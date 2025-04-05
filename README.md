@@ -27,6 +27,7 @@ Aman's Leetcode Tracking 2024
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
@@ -103,6 +104,7 @@ Aman's Leetcode Tracking 2024
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0191-number-of-1-bits) |
