@@ -40,6 +40,7 @@ Aman's Leetcode Tracking 2024
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2308-divide-array-into-equal-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2308-divide-array-into-equal-pairs) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ Aman's Leetcode Tracking 2024
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2308-divide-array-into-equal-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2308-divide-array-into-equal-pairs) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## String
 |  |
@@ -111,6 +113,7 @@ Aman's Leetcode Tracking 2024
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2308-divide-array-into-equal-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2308-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -137,6 +140,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0169-majority-element) |
+| [2308-divide-array-into-equal-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sliding Window
 |  |
 | ------- |
