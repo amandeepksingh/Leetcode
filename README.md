@@ -13,6 +13,7 @@ Aman's Leetcode Tracking 2024
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Aman's Leetcode Tracking 2024
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2308-divide-array-into-equal-pairs) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +189,7 @@ Aman's Leetcode Tracking 2024
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0023-merge-k-sorted-lists) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -254,4 +257,8 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Simulation
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
