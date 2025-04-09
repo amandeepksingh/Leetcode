@@ -27,6 +27,7 @@ Aman's Leetcode Tracking 2024
 | [0066-plus-one](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0137-single-number-ii) |
@@ -127,6 +128,7 @@ Aman's Leetcode Tracking 2024
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0338-counting-bits) |
 ## Divide and Conquer
