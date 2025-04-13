@@ -6,7 +6,7 @@ class Solution:
         s = list(s)
         while p1 < p2:
             if s[p1] in set('AEIOUaeiou') and s[p2] in set('AEIOUaeiou'):
-                print(s[p1])
+                # print(s[p1])
                 temp = s[p1]
                 s[p1] = s[p2]
                 s[p2] = temp
