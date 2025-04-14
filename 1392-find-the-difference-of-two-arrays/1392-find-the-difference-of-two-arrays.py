@@ -9,7 +9,7 @@ class Solution:
         for n in nums2:
             if n not in nums1:
                 answer[2].add(n)
-        print(answer)
+        # print(answer)
         return [list(answer[1]), list(answer[2])]
 
         
