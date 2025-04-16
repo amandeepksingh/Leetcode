@@ -46,6 +46,7 @@ Aman's Leetcode Tracking 2024
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2308-divide-array-into-equal-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2428-equal-row-and-column-pairs) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
@@ -95,6 +96,7 @@ Aman's Leetcode Tracking 2024
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1777-determine-if-two-strings-are-close) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2308-divide-array-into-equal-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2428-equal-row-and-column-pairs) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## String
 |  |
@@ -180,6 +182,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
+| [2428-equal-row-and-column-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2428-equal-row-and-column-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -274,6 +277,7 @@ Aman's Leetcode Tracking 2024
 ## Simulation
 |  |
 | ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2428-equal-row-and-column-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
