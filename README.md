@@ -39,6 +39,7 @@ Aman's Leetcode Tracking 2024
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0724-find-pivot-index) |
 | [0974-reorder-data-in-log-files](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -284,6 +285,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
