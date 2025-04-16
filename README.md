@@ -116,6 +116,7 @@ Aman's Leetcode Tracking 2024
 | [0974-reorder-data-in-log-files](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0974-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1777-determine-if-two-strings-are-close) |
+| [2470-removing-stars-from-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2470-removing-stars-from-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2470-removing-stars-from-a-string) |
 ## Database
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
