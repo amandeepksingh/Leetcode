@@ -44,6 +44,7 @@ Aman's Leetcode Tracking 2024
 | [1392-find-the-difference-of-two-arrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1833-find-the-highest-altitude](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1833-find-the-highest-altitude) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2428-equal-row-and-column-pairs) |
@@ -283,6 +284,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
