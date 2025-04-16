@@ -3,6 +3,6 @@ class Solution:
         alt = [0] 
         for i in gain:
             alt.append(alt[-1] + i)
-        print(alt)
+        # print(alt)
         return max(alt)
         
