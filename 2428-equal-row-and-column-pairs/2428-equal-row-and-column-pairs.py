@@ -1,10 +1,19 @@
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
+        # c = 0 
+        # for i in range(len(grid)):
+        #     row = grid[i]
+        #     for j in range(len(grid[0])): # n x n so can also just be len(grid)
+        #         col = [row[j] for row in grid]
+        #         if col == row:
+        #             c = c + 1
+        # return c 
+
         c = 0 
+        col = [[row[j] for row in grid] for j in range(len(grid))]
         for i in range(len(grid)):
             row = grid[i]
             for j in range(len(grid[0])): # n x n so can also just be len(grid)
-                col = [row[j] for row in grid]
-                if col == row:
+                if col[j] == row:
                     c = c + 1
         return c 
