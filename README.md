@@ -37,6 +37,7 @@ Aman's Leetcode Tracking 2024
 | [0219-contains-duplicate-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0724-find-pivot-index) |
@@ -298,6 +299,7 @@ Aman's Leetcode Tracking 2024
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0605-can-place-flowers) |
 ## Interactive
 |  |
