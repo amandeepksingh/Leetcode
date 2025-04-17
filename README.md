@@ -139,6 +139,7 @@ Aman's Leetcode Tracking 2024
 | [0004-median-of-two-sorted-arrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0374-guess-number-higher-or-lower) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,4 +295,8 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0605-can-place-flowers) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
