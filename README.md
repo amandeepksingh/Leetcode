@@ -48,6 +48,7 @@ Aman's Leetcode Tracking 2024
 | [1833-find-the-highest-altitude](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1833-find-the-highest-altitude) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2308-divide-array-into-equal-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2428-equal-row-and-column-pairs) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -64,6 +65,7 @@ Aman's Leetcode Tracking 2024
 | [0125-valid-palindrome](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0345-reverse-vowels-of-a-string) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@ Aman's Leetcode Tracking 2024
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1777-determine-if-two-strings-are-close) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
 ## Hash Table
 |  |
@@ -140,6 +143,7 @@ Aman's Leetcode Tracking 2024
 | [0035-search-insert-position](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0374-guess-number-higher-or-lower) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
