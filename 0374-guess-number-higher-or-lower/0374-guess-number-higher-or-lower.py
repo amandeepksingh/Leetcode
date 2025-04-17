@@ -11,7 +11,7 @@ class Solution:
         h = n 
         while l < h:
             m = (l + h)//2
-            print(l, m, h, guess(m))
+            # print(l, m, h, guess(m))
             if guess(m) == 0:
                 return m 
             if guess(m) > 0: 
