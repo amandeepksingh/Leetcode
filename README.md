@@ -202,6 +202,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0146-lru-cache) |
+| [0969-number-of-recent-calls](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0969-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -305,4 +306,12 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
