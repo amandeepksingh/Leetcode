@@ -243,6 +243,7 @@ Aman's Leetcode Tracking 2024
 | [0196-delete-duplicate-emails](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0262-trips-and-users) |
 | [0627-swap-salary](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0627-swap-salary) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-sales-analysis-iii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1179-game-play-analysis-i) |
 | [1301-reformat-department-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1301-reformat-department-table) |
