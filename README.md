@@ -251,6 +251,7 @@ Aman's Leetcode Tracking 2024
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1811-fix-names-in-a-table) |
 | [1837-daily-leads-and-partners](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1837-daily-leads-and-partners) |
+| [1908-recyclable-and-low-fat-products](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2110-employees-with-missing-information) |
