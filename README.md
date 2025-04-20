@@ -256,6 +256,7 @@ Aman's Leetcode Tracking 2024
 | [1837-daily-leads-and-partners](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1837-daily-leads-and-partners) |
 | [1908-recyclable-and-low-fat-products](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1948-rearrange-products-table) |
+| [2024-calculate-special-bonus](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2110-employees-with-missing-information) |
 ## Tree
