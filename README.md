@@ -242,6 +242,7 @@ Aman's Leetcode Tracking 2024
 | [0183-customers-who-never-order](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0262-trips-and-users) |
+| [0584-find-customer-referee](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
