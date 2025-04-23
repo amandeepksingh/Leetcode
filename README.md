@@ -254,6 +254,7 @@ Aman's Leetcode Tracking 2024
 | [1258-article-views-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1734-bank-account-summary-ii) |
