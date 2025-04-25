@@ -264,6 +264,7 @@ Aman's Leetcode Tracking 2024
 | [1811-fix-names-in-a-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1811-fix-names-in-a-table) |
 | [1837-daily-leads-and-partners](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1877-find-followers-count) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2024-calculate-special-bonus) |
