@@ -257,6 +257,7 @@ Aman's Leetcode Tracking 2024
 | [1179-game-play-analysis-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1258-article-views-i) |
+| [1268-market-analysis-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1268-market-analysis-i) |
 | [1301-reformat-department-table](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1301-reformat-department-table) |
 | [1541-top-travellers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1625-group-sold-products-by-the-date) |
