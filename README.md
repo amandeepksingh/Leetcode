@@ -10,6 +10,7 @@ Aman's Leetcode Tracking 2024
 | [0066-plus-one](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -154,6 +155,7 @@ Aman's Leetcode Tracking 2024
 | [0118-pascals-triangle](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -292,10 +294,12 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
