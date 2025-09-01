@@ -104,6 +104,7 @@ Premium Questions:
 | [0242-valid-anagram](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
+| [1023-time-based-key-value-store](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1023-time-based-key-value-store) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1777-determine-if-two-strings-are-close) |
@@ -125,6 +126,7 @@ Premium Questions:
 | [0420-strong-password-checker](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
 | [0974-reorder-data-in-log-files](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0974-reorder-data-in-log-files) |
+| [1023-time-based-key-value-store](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2470-removing-stars-from-a-string) |
@@ -151,6 +153,7 @@ Premium Questions:
 | [0035-search-insert-position](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0374-guess-number-higher-or-lower) |
+| [1023-time-based-key-value-store](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1023-time-based-key-value-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
@@ -213,6 +216,7 @@ Premium Questions:
 | ------- |
 | [0146-lru-cache](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0146-lru-cache) |
 | [0969-number-of-recent-calls](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0969-number-of-recent-calls) |
+| [1023-time-based-key-value-store](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1023-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
 | ------- |
