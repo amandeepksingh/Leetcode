@@ -1,7 +1,7 @@
 # Leetcode-2024
 Aman's Leetcode Tracking 2024
 Premium Questions:
-https://www.lintcode.com/problem/3662/?source=激励弹窗分享
+- Design Hit Counter: https://www.lintcode.com/problem/3662/?source=激励弹窗分享
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
