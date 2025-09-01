@@ -120,6 +120,7 @@ Aman's Leetcode Tracking 2024
 | [0151-reverse-words-in-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0345-reverse-vowels-of-a-string) |
+| [0420-strong-password-checker](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0420-strong-password-checker) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
 | [0974-reorder-data-in-log-files](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0974-reorder-data-in-log-files) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -222,6 +223,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0023-merge-k-sorted-lists) |
+| [0420-strong-password-checker](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0420-strong-password-checker) |
 | [1014-k-closest-points-to-origin](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1014-k-closest-points-to-origin) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/amandeepksingh/Leetcode-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
@@ -332,6 +334,7 @@ Aman's Leetcode Tracking 2024
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0334-increasing-triplet-subsequence) |
+| [0420-strong-password-checker](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0420-strong-password-checker) |
 | [0605-can-place-flowers](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0605-can-place-flowers) |
 ## Interactive
 |  |
