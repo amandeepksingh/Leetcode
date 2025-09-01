@@ -15,23 +15,30 @@ class Solution:
         substeps = 0
         groups = [len(list(grp)) for _, grp in itertools.groupby(password)]
         print(groups)
-        def apply_best_delete():
+
+        # with strategic delete, the number of substitions can be reduced 
+        # def apply_best_delete():
+        #     argmin, _ = min(
+        #         enumerate(groups),
+        #         # Ignore groups of length < 3 as long as others are available.
+        #         key=lambda it: it[1] % 3 if it[1] >= 3 else 10 - it[1],
+        #     )
+        #     groups[argmin] -= 1
+        
+        for _ in range(delsteps):
             argmin, _ = min(
-                enumerate(groups),
+                enumerate(groups), # index @ 0 and val @ 1 
                 # Ignore groups of length < 3 as long as others are available.
                 key=lambda it: it[1] % 3 if it[1] >= 3 else 10 - it[1],
             )
-            groups[argmin] -= 1
             print(groups)
-        
-        for _ in range(delsteps):
-            apply_best_delete()
+            groups[argmin] -= 1
+            print(groups[argmin])
+            print("ok")
         
         # On the finished groups, we need one repace per 3 consecutive letters
         substeps = sum(group // 3 for group in groups)
 
-
-            
         print("add/del", addsteps, delsteps)
         print("rep", substeps)
         print("up, low, num", missing)
