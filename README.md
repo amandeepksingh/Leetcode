@@ -1,5 +1,5 @@
-# Leetcode-2024
-Aman's Leetcode Tracking 2024
+# Leetcode Tracking
+Aman's Leetcode Tracking! 
 Premium Questions:
 - Design Hit Counter: https://www.lintcode.com/problem/3662/?source=激励弹窗分享
 
