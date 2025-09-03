@@ -71,6 +71,7 @@ Premium Questions:
 | [0088-merge-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0345-reverse-vowels-of-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2561-number-of-distinct-averages](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2561-number-of-distinct-averages) |
@@ -213,6 +214,7 @@ Premium Questions:
 | [0023-merge-k-sorted-lists](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -246,6 +248,7 @@ Premium Questions:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2470-removing-stars-from-a-string) |
 ## Database
@@ -315,6 +318,7 @@ Premium Questions:
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
