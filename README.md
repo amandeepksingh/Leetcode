@@ -133,6 +133,7 @@ Premium Questions:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
 ## Bit Manipulation
@@ -194,6 +195,7 @@ Premium Questions:
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Union Find
@@ -293,10 +295,12 @@ Premium Questions:
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
