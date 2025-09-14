@@ -31,6 +31,7 @@ Premium Questions:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0137-single-number-ii) |
@@ -164,6 +165,7 @@ Premium Questions:
 | [0005-longest-palindromic-substring](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0213-house-robber-ii) |
