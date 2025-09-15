@@ -137,6 +137,7 @@ Premium Questions:
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
 | [0433-minimum-genetic-mutation](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0433-minimum-genetic-mutation) |
 ## Bit Manipulation
@@ -201,6 +202,7 @@ Premium Questions:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Union Find
@@ -305,12 +307,14 @@ Premium Questions:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0112-path-sum) |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
