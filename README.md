@@ -203,6 +203,7 @@ Premium Questions:
 | [0094-binary-tree-inorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0200-number-of-islands) |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Union Find
@@ -255,6 +256,7 @@ Premium Questions:
 | ------- |
 | [0020-valid-parentheses](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/amandeepksingh/Leetcode-2024/tree/master/2470-removing-stars-from-a-string) |
@@ -308,6 +310,7 @@ Premium Questions:
 | [0094-binary-tree-inorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -315,6 +318,7 @@ Premium Questions:
 | [0094-binary-tree-inorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0144-binary-tree-preorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/amandeepksingh/Leetcode-2024/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
